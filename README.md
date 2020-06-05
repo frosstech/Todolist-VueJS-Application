@@ -1,4 +1,5 @@
 # todolist
+This is basic Todolist application developed in Vue JS. Vue JS helps us to manage the UI components, which really helpful. State management is achieved through Vuex in Vue JA.
 
 ## Project setup
 ```
